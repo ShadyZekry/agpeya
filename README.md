@@ -1,6 +1,6 @@
 # agpeya
 
-A new Flutter project.
+Coptic christian Agpeya
 
 ## Getting Started
 
